@@ -14,8 +14,13 @@ layout: default
       </h2>
 
       <p>
-      {{ post.excerpt | truncate: 200, '...'}}
+      {{ post.excerpt | truncateward: 30}}       
       </p>
+
+      <div>
+        <a class="post-more-link" href="{{ post.url | prepend: site.baseurl }}"> More </a>
+      </div>
+
     </li>
     {% endfor %}
   </ul>
