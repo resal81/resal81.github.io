@@ -2,6 +2,7 @@
 layout: post
 title:  "I love dynamics!"
 date:   2007-11-10 19:30:11
+comments: true
 categories: diary 
 ---
 

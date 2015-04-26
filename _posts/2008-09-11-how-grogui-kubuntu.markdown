@@ -2,6 +2,7 @@
 layout: post
 title:  "How to compile GroGUI 0.5.x in (K)ubuntu 8.04 and OpenSuse 10.3"
 date:   2008-09-11 09:51:11
+comments: true
 categories: diary 
 ---
 

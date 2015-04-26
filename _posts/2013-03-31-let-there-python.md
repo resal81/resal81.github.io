@@ -2,6 +2,7 @@
 layout: post
 title:  "And let there be Python"
 date:   2013-03-31 19:30:11
+comments: true
 categories: diary 
 ---
 

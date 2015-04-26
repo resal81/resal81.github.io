@@ -2,6 +2,7 @@
 layout: post
 title:  "Exhausted..."
 date:   2007-08-15 10:11:11
+comments: true
 categories: diary 
 ---
 

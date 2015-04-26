@@ -2,6 +2,7 @@
 layout: post
 title:  "Compiling VMD with Python 2.7 and CUDA 5.0"
 date:   2013-04-01 19:30:11
+comments: true
 categories: diary 
 ---
 

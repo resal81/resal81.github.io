@@ -2,6 +2,7 @@
 layout: post
 title:  "Fars"
 date:   2007-07-20 10:11:11
+comments: true
 categories: diary 
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "So It Starts..."
 date:   2007-07-20 01:11:11
+comments: true
 categories: diary 
 ---
 

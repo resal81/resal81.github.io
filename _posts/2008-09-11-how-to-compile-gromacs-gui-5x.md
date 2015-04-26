@@ -2,6 +2,7 @@
 layout: post
 title:  "How to compile GromacsGUI 0.5.x"
 date:   2008-09-11 19:51:11
+comments: true
 categories: diary 
 ---
 
