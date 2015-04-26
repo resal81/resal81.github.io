@@ -5,12 +5,13 @@
     border-top: 0px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: #f2e2cd;
+    background-color: $header-bg-color;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
+// a link
 .site-title {
     font-size: 26px;
     line-height: 56px;
@@ -18,9 +19,14 @@
     margin-bottom: 0;
     float: left;
 
+
+
     &,
-    &:visited {
-        color: $grey-color-dark;
+    &:visited,
+    &:hover {
+        color: $site-title-color;
+        text-decoration: none;
+    //    color: $grey-color-dark;
     }
 }
 
@@ -33,7 +39,11 @@
     }
 
     .page-link {
-        color: $text-color;
+        &,
+        &:visited,
+        &:hover {
+            color: $nav-color;
+        }
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -94,8 +104,17 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
-    background-color: lighten(#f2e2cd, 10%);
+    //padding: $spacing-unit*0.5 0;
+    background-color: $footer-bg-color;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow:hidden;
+
+    & .wrapper {
+        padding-top: 20px;
+    }
 }
 
 .footer-heading {
@@ -107,11 +126,17 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+
+    a {
+        &, &:visited, &:hover {
+            color: $footer-color;
+        }
+    }
 }
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $footer-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -199,6 +224,10 @@
 
 .post-more-link-clear {
     clear: both;
+}
+
+.page-comments {
+    margin-bottom: 40px;
 }
 
 

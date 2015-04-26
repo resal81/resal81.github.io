@@ -15,7 +15,13 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;//#494144; 
+$brand-color:      #2a7ae2; // for links
+$header-bg-color:  #0B486B;
+$footer-bg-color:  #3B8686;
+$footer-color:     #CFF09E;
+$site-title-color: #f7f7f7;
+$nav-color       : #f7f7f7;
+$svg-color:        #CFF09E;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -26,8 +32,6 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
-
 
 
 // Using media queries with like this:
