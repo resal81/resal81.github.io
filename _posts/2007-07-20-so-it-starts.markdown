@@ -5,7 +5,6 @@ date:   2007-07-20 01:11:11
 categories: diary 
 ---
 
-[ Originally published [here](https://resal.wordpress.com/2007/07/20/so-it-starts/) ]
 
 After some searching about blog providers, I finally chose WordPress over others. And so my blogging experience starts… .
 
@@ -14,3 +13,5 @@ Yesterday, I arrived at my room after about 19 hours of hard work (specially at 
 I woke up about 6 hours ago. Thanks God. What a refreshing sleep!
 
 28 Mordad 86
+
+[ Originally published [here](https://resal.wordpress.com/2007/07/20/so-it-starts/). ]

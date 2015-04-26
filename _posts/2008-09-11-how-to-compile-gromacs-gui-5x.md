@@ -5,9 +5,11 @@ date:   2008-09-11 19:51:11
 categories: diary 
 ---
 
-[ Originally published [here](https://resal.wordpress.com/2008/09/11/how-to-compile-gromacsgui-05x/) ]
 
-This is a mini-howto for compiling GromacsGUI mainly for those who may have not worked with compiling stuff before, or want to test the software in linux distributions other than (k)ubuntu 8.04 and OpenSuse 10.3 for which I explained exact steps.
+This is a mini-howto for compiling GromacsGUI mainly for those who may have not
+worked with compiling stuff before, or want to test the software in linux
+distributions other than (k)ubuntu 8.04 and OpenSuse 10.3 for which I explained
+exact steps.
 
 #### Basics
 
@@ -97,3 +99,5 @@ make
 
 Hope you see the program window!
 
+
+[ Originally published [here](https://resal.wordpress.com/2008/09/11/how-to-compile-gromacsgui-05x/). ]

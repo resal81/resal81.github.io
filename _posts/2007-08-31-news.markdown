@@ -5,12 +5,32 @@ date:   2007-08-31 01:15:11
 categories: diary 
 ---
 
-[ Originally published [here](https://resal.wordpress.com/2007/08/31/news/) ]
 
-After about 4 weeks of looking, learning, thinking and writing code, and again looking, learning, thinking and writing code, and again… now I’ve learned Qt enough to find my way. Coming from python world, it was relatively difficult to get accustomed with “new” and “delete” especially when working with raw data! The plotting tool has been more matured. As I said before, I delayed molecular viewer part to the next major release (I hope it to be developed in coming months). Nevertheless, just for my curiosity, I wrote a simple “test” viewer using OpenMOIV and also played a little with BALLView. The results were promising.
+After about 4 weeks of looking, learning, thinking and writing code, and again
+looking, learning, thinking and writing code, and again… now I’ve learned Qt
+enough to find my way. Coming from python world, it was relatively difficult to
+get accustomed with “new” and “delete” especially when working with raw data!
+The plotting tool has been more matured. As I said before, I delayed molecular
+viewer part to the next major release (I hope it to be developed in coming
+months). Nevertheless, just for my curiosity, I wrote a simple “test” viewer
+using OpenMOIV and also played a little with BALLView. The results were
+promising.
 
-Last week, I accidentally found a page in gromacs wiki that listed the gromacs GUIs currently available. There was a program called GmxG listed too. The software is written by Filipe Maia and seems that has not been released yet. I grabbed the code using gromacs cvs and when reviewing the code, I found that what a good GUI is going to be created. It is obvious that Filipe is an experienced programmer, and I hope him to find enough time to complete it (because some parts of code date back to about 2 years ago and about, I think, 60% of work has done, I think his main problem is lack of enough free time!). The GmxG has a molecular viewer using PyMol, an xvg plotter and a statistical analysis section.Because there was no copyright notification in GmxG code, I didn’t use any of it. But the output parser of the code inspired me to write one for my app too, but not for this release. Maybe for version 0.6 .
+Last week, I accidentally found a page in gromacs wiki that listed the gromacs
+GUIs currently available. There was a program called GmxG listed too. The
+software is written by Filipe Maia and seems that has not been released yet. I
+grabbed the code using gromacs cvs and when reviewing the code, I found that
+what a good GUI is going to be created. It is obvious that Filipe is an
+experienced programmer, and I hope him to find enough time to complete it
+(because some parts of code date back to about 2 years ago and about, I think,
+60% of work has done, I think his main problem is lack of enough free time!).
+The GmxG has a molecular viewer using PyMol, an xvg plotter and a statistical
+analysis section.Because there was no copyright notification in GmxG code, I
+didn’t use any of it. But the output parser of the code inspired me to write
+one for my app too, but not for this release. Maybe for version 0.6 .
 
 OK then, enough for now. I am tired now and more tiring days are ahead…!
 
 1:15 AM shanbeh, 10 shahrivar 1386.
+
+[ Originally published [here](https://resal.wordpress.com/2007/08/31/news/). ]

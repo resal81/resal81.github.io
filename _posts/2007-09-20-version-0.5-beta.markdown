@@ -5,11 +5,11 @@ date:   2007-09-20 09:51:11
 categories: diary 
 ---
 
-[ Originally published [here](https://resal.wordpress.com/2007/09/20/version-05-beta-released/) ]
-
-
-After about one month of development, now the version 0.5 is ready. I also prepared an introduction slideshow which was created using wink.
+After about one month of development, now the version 0.5 is ready. I also
+prepared an introduction slideshow which was created using wink.
 
 Not enough time for blogging now… ;)
 
 9:51 AM panjshanbeh, 29 shahrivar 1386.
+
+[ Originally published [here](https://resal.wordpress.com/2007/09/20/version-05-beta-released/). ]

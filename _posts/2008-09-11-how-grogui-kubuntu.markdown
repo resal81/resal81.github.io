@@ -5,10 +5,8 @@ date:   2008-09-11 09:51:11
 categories: diary 
 ---
 
-[ Originally published [here](https://resal.wordpress.com/2008/09/11/how-to-compile-grogui-05x-in-kubuntu-804-and-opensuse-103/) ]
 
 ### (K)ubuntu 8.04
-
 - Use Adept and install these packages: `g++, make, libqt4-gui, libqt4-dev, libqwt5-qt4, libqwt5qt4-dev`.
 
 - Download GromacsGUI.
@@ -93,3 +91,5 @@ make
 ```
 ./grogui
 ```
+
+[ Originally published [here](https://resal.wordpress.com/2008/09/11/how-to-compile-grogui-05x-in-kubuntu-804-and-opensuse-103/). ]

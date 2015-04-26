@@ -5,7 +5,6 @@ date:   2013-03-31 19:30:11
 categories: diary 
 ---
 
-[ Originally published [here](https://loadmol.wordpress.com/2013/03/31/and-let-there-be-python/) ]
 
 
 If you do some sort of molecular modeling, you almost certainly used one or
@@ -30,6 +29,9 @@ and [learn Python the hard way][tut2].
   EPD.
 
 Have fun Pythoning!
+
+
+[ Originally published [here](https://loadmol.wordpress.com/2013/03/31/and-let-there-be-python/). ]
 
 [pypi]: https://pypi.python.org/pypi
 [python]: http://python.org/

@@ -5,7 +5,6 @@ date:   2013-04-01 19:30:11
 categories: diary 
 ---
 
-[ Originally published [here](https://loadmol.wordpress.com/2013/04/01/compiling-vmd-with-python-2-7-and-cuda-5-0/) ]
 
 No, it’s not an April fool’s joke. And yes, it wasn’t easy to do!
 
@@ -150,3 +149,4 @@ Python 2.7 seems to work well. Numpy and other modules can be loaded and you
 also have access to VMD’s own modules (Molecule/molrep…). I’ll show some Python
 examples later.
 
+[ Originally published [here](https://loadmol.wordpress.com/2013/04/01/compiling-vmd-with-python-2-7-and-cuda-5-0/). ]
